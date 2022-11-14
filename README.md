@@ -1,6 +1,6 @@
 # Hey! I'm glad to see you on my page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## Let I talk you about me 😊
+## Let I talk you about myself 😊
 
 🎓 I am beginner front-end developer. I want to grove in my profession.
 
