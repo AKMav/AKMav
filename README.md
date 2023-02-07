@@ -2,9 +2,9 @@
 
 ## Let I talk you about myself 😊
 
-🎓 I am beginner front-end developer. I want to grove in my profession.
+🎓 I am front-end developer. I want to grove in my profession.
 
-🤓 I spend quite a lot of time practicing and studying. On average, this is about 8 hours a day. 
+🤓 I've been programming for more than 1.5 years. 
 
 🥊 In addition to studying and working, I train in the gym and enjoy mixed martial arts.
 
